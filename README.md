@@ -9,5 +9,5 @@ PS> .\vm_monitor.ps1 -vcenter [vcenter IP]
 ![image](https://user-images.githubusercontent.com/30316226/49858268-16057180-fdba-11e8-8424-72c15ed2e79b.png)
 
 # Notes
--VMware guidance: CPU Ready time and Co-Stop values per core greater than 5% and 3% respectievely could  be a performance concern.
--"vm_list.txt" should contain the list of VM names to be monitored and should be present in the same directory where this PS script is saved. 
+-VMware guidance: CPU Ready time and Co-Stop values per core greater than 5% and 3% respectievely could  be a performance concern. <br />
+-"vm_list.txt" should contain the list of VM names to be monitored and should be present in the same directory where this PS script is saved. <br /> 
